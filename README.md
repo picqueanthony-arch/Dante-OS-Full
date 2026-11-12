@@ -36,7 +36,7 @@ Dante OS est un launcher Android sombre et vivant, avec une trentaine de modules
 ### Gratuit, et Dante Pro
 
 Le launcher est gratuit, pour toujours : bureau, dock et ses effets, widgets, dossiers, icônes. Tous les modules s'ouvrent et se voient.
-**Dante Pro** (4,99 €, une seule fois) débloque les usages avancés : Dante Core, Dante IA, Dante Engine, Dante FX, sources illimitées, serveurs SMB/FTP/SFTP…
+**Dante Pro** (5,99 €, une seule fois) débloque les usages avancés : Dante Core, Dante IA, Dante Engine, Dante FX, sources illimitées, serveurs SMB/FTP/SFTP…
 
 Dans Dante OS Full : **Dante Pro ▸ Payer avec PayPal** (écris ton adresse email dans le message), tu reçois ta clé par email, tu la colles dans Dante. Il faut Internet une fois pour l'activer ; ensuite elle marche pour toujours, même sans connexion, sur 3 téléphones avec Dante OS Full.
 
@@ -94,7 +94,7 @@ Dante OS is a dark, living Android launcher with about thirty modules (live data
 ### Free, and Dante Pro
 
 The launcher is free, for good: desktop, dock and its effects, widgets, folders, icons. Every module opens and can be explored.
-**Dante Pro** (€4.99, once) unlocks the advanced use: Dante Core, Dante AI, Dante Engine, Dante FX, unlimited sources, SMB/FTP/SFTP servers…
+**Dante Pro** (€5.99, once) unlocks the advanced use: Dante Core, Dante AI, Dante Engine, Dante FX, unlimited sources, SMB/FTP/SFTP servers…
 
 In Dante OS Full: **Dante Pro ▸ Pay with PayPal** (write your email address in the message), you receive your key by email, you paste it in Dante. It needs the Internet once to activate; after that it works for good, even offline, on 3 phones with Dante OS Full.
 
