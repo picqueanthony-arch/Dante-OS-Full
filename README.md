@@ -15,6 +15,8 @@ Dante OS est un launcher Android sombre et vivant, avec une trentaine de modules
 
 **Dante OS Full**, c'est la même appli avec en plus **Dante Core** : un vrai Linux (Debian) dans ton téléphone, ses outils, Kali, VS Code, les tâches programmées et la Fabrique. Cette version ne passe pas par le Play Store : elle se télécharge ici.
 
+💬 **Rejoins la communauté sur [Discord](https://discord.gg/XcstyCwGuP)** : aide, captures, idées, annonces des nouvelles versions. Clique sur « J'ai un téléphone rooté » pour ouvrir les salons Root & Dante Core.
+
 | | Play Store | **Full (ici)** |
 |---|---|---|
 | Launcher, modules, Dante FX, Dante IA | ✅ | ✅ |
@@ -63,7 +65,7 @@ Aucun traqueur, aucune statistique, aucune publicité. Tout est expliqué ici : 
 
 Le code source de Dante OS n'est pas public : ce dépôt contient seulement l'appli, ses captures et cette page.
 Dante OS a été imaginé et dirigé par Dante, et codé avec Claude (Anthropic).
-Contact : [danteantpi@proton.me](mailto:danteantpi@proton.me)
+Contact : [danteantpi@proton.me](mailto:danteantpi@proton.me) · [Discord](https://discord.gg/XcstyCwGuP)
 
 ---
 
@@ -72,6 +74,8 @@ Contact : [danteantpi@proton.me](mailto:danteantpi@proton.me)
 Dante OS is a dark, living Android launcher with about thirty modules (live data, news, files, SSH, on-phone Dante AI, Dante FX, Dante Engine…).
 
 **Dante OS Full** is the same app plus **Dante Core**: a real Linux (Debian) inside your phone, its tools, Kali, VS Code, scheduled tasks and the Workshop. This version is not on the Play Store: download it here.
+
+💬 **Join the community on [Discord](https://discord.gg/XcstyCwGuP)** (French-speaking): help, screenshots, ideas, new release announcements. Click « J'ai un téléphone rooté » (I have a rooted phone) to open the Root & Dante Core channels.
 
 | | Play Store | **Full (here)** |
 |---|---|---|
@@ -121,4 +125,4 @@ No tracker, no statistics, no ads. Everything is explained here: **[privacy poli
 
 Dante OS source code is not public: this repository only holds the app, its screenshots and this page.
 Dante OS was imagined and directed by Dante, and coded with Claude (Anthropic).
-Contact: [danteantpi@proton.me](mailto:danteantpi@proton.me)
+Contact: [danteantpi@proton.me](mailto:danteantpi@proton.me) · [Discord](https://discord.gg/XcstyCwGuP)
