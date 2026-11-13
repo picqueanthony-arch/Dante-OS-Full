@@ -17,6 +17,8 @@ Dante OS est un launcher Android sombre et vivant, avec une trentaine de modules
 
 💬 **Rejoins la communauté sur [Discord](https://discord.gg/XcstyCwGuP)** : aide, captures, idées, annonces des nouvelles versions. Clique sur « J'ai un téléphone rooté » pour ouvrir les salons Root & Dante Core.
 
+🔒 **Pas open source ?** Voici [pourquoi faire confiance à Dante OS](CONFIANCE.md) : ce qu'il ne fait pas, ce qui part sur Internet, et comment tout vérifier toi-même.
+
 | | Play Store | **Full (ici)** |
 |---|---|---|
 | Launcher, modules, Dante FX, Dante IA | ✅ | ✅ |
@@ -76,6 +78,8 @@ Dante OS is a dark, living Android launcher with about thirty modules (live data
 **Dante OS Full** is the same app plus **Dante Core**: a real Linux (Debian) inside your phone, its tools, Kali, VS Code, scheduled tasks and the Workshop. This version is not on the Play Store: download it here.
 
 💬 **Join the community on [Discord](https://discord.gg/XcstyCwGuP)** (French-speaking): help, screenshots, ideas, new release announcements. Click « J'ai un téléphone rooté » (I have a rooted phone) to open the Root & Dante Core channels.
+
+🔒 **Not open source?** Here is [why you can trust Dante OS](CONFIANCE.md#english): what it does not do, what goes to the Internet, and how to check it all yourself.
 
 | | Play Store | **Full (here)** |
 |---|---|---|
